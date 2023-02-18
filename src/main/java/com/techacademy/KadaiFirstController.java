@@ -14,6 +14,7 @@ public class KadaiFirstController {
         String yyyy = val1.substring(0,4);
         String mm = val1.substring(4,6);
         String dd = val1.substring(6,8);
+
         String result = null;
 
 
